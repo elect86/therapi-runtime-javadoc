@@ -4,4 +4,4 @@ include("therapi-runtime-javadoc",
         "therapi-runtime-javadoc-scribe")
 
 
-//enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
